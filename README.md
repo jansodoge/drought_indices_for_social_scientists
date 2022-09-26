@@ -30,6 +30,9 @@ There's a shiny app to explore, customize and download the 'area under drought' 
 
 __Authors & Contribution__
 
-[Mansi Nagpal](https://twitter.com/MansiNagpal8) figured and implemented the computation of the area under drought measure
+[Mansi Nagpal](https://twitter.com/MansiNagpal8) figured and implemented the computation of the area under drought measure.
+
+
+
 [Jan Sodoge](https://twitter.com/jsodoge) create the shiny app and UI to create customized datasets.
 
