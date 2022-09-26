@@ -1,0 +1,13 @@
+name: smi_interface
+title: smi_interface
+username:
+account: jsodoge
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7119697
+bundleId: 6338473
+url: https://jsodoge.shinyapps.io/smi_interface/
+when: 1664192745.97989
+lastSyncTime: 1664192745.97994
+asMultiple: FALSE
+asStatic: FALSE
