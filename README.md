@@ -7,6 +7,8 @@ The goal of this repository is providing an intutive way to work with soil moist
 
 
 __What data do we use__
+
+
 We employ data provided by the drought monitor from the Helmholtz Centre for Environmental research (https://www.ufz.de/index.php?en=37937). Here, the soil moisture index reflects the measurement of drought that we apply for the following tool and analyses.
 
 
